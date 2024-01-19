@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DICE-Win-or-Lose-/static/css/main.d1dfbcab.css",
+    "main.js": "/DICE-Win-or-Lose-/static/js/main.1850ac5c.js",
+    "static/js/787.fd9f8f4d.chunk.js": "/DICE-Win-or-Lose-/static/js/787.fd9f8f4d.chunk.js",
+    "index.html": "/DICE-Win-or-Lose-/index.html",
+    "main.d1dfbcab.css.map": "/DICE-Win-or-Lose-/static/css/main.d1dfbcab.css.map",
+    "main.1850ac5c.js.map": "/DICE-Win-or-Lose-/static/js/main.1850ac5c.js.map",
+    "787.fd9f8f4d.chunk.js.map": "/DICE-Win-or-Lose-/static/js/787.fd9f8f4d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1dfbcab.css",
+    "static/js/main.1850ac5c.js"
+  ]
+}
