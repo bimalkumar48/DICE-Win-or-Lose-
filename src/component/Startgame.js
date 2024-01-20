@@ -5,7 +5,7 @@ export const Startgame = ({ toggle }) => {
   return (
     <Container>
       <div>
-        <img src="/images/logo512.png" alt="" />
+        <img src="../images/logo512.png" alt="" />
       </div>
       <div className="content">
         <h1>DICE GAME</h1>
