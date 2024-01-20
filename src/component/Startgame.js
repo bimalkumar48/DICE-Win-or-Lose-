@@ -1,6 +1,6 @@
 import styled from "styled-components";
 import { Button } from "../Styled/Button";
-import DiceImg from "../images/dice/dicelogo.png";
+import DiceImg from "../images/dicelogo.png";
 
 export const Startgame = ({ toggle }) => {
   return (
