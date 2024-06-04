@@ -10,7 +10,7 @@ const RollDice = ({ CurrDice, RoleDice }) => {
   return (
     <RollContainer>
       <div className="Dice" onClick={RoleDice}>
-      <img src={Arr[CurrDice - 1]} alt="" />
+      <img src={Arr[CurrDice - 1]} alt={Arr[CurrDice - 1]} />
       </div>
       <p>Click on Dice to Roll</p>
     </RollContainer>
